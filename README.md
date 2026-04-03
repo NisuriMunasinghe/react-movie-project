@@ -28,7 +28,7 @@ A simple, responsive movie browser that lets users explore movies and save their
 
 ### Home Page
 Browse and search movies with the interactive favorite button:
-![Home Page](./screenshots/home.png)
+![Home Page](./frontend/screenshots/Screenshot 2026-04-03 at 13.29.37.png)
 
 ### Favorites Page
 View your saved favorite movies:
